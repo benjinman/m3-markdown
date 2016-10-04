@@ -9,3 +9,9 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+
+`Link Titles`
+
+[Click this link to learn more about Links in Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+
+I did this by using the `[Title](link)` Markdown.
