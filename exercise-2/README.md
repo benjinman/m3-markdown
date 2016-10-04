@@ -6,7 +6,7 @@ In the space below, make a three column table of the current courses you are tak
 
 See `complete` branch for answers.
 
-| **Course Number** | _Course Title_ | Instructor  |
+| Course Number | Course Title | Instructor  |
 | ----------------- | -------------- | ----------- |
 | **Info 201** | _Tech Foundations_ | Michael Freeman |
 | **Info 498A** | _Topic Informatics_ | Ted Neward |
