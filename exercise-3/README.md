@@ -14,4 +14,8 @@ See `complete` branch for answers.
 
 [Click this link to learn more about Links in Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 
-I did this by using the `[Title](link)` Markdown.
+I did this by using the `[Title](link)` Markdown syntax.
+
+Here's some more information about the Link command:
++ You can change the text of the [Title] part to display the link as that text instead of the URL.
++ This is a good way to stylize your links to make them cooler.
