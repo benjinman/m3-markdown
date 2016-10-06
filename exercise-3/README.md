@@ -10,7 +10,7 @@ A _nested list_ of information about the command (i.e., things that it does, or 
 
 See `complete` branch for answers.
 
-`Link Titles`
+# Link Titles
 
 [Click this link to learn more about Links in Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 
